@@ -27,5 +27,5 @@ The code provided among this repository are
 <br> The script will generate an image file named `A4.png` containing a table drawn on an A4-sized canvas.
 <br> The script defines a function `generate_table_on_a4()` that creates a table with red grid lines on an A4-sized canvas. The table cells have a default size of 44x44 pixels.
 `Result`<br>
-<img src="A4.png" alt="table" width="400">
+<img src="A4.png" alt="table" width="200">
 
