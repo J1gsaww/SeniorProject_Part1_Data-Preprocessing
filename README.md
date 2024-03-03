@@ -50,7 +50,7 @@ When croping, the program will skip the last row and column because the image co
 <br> Actually we can replace mentioned black space with better solution.
 <br>
 `Data chosen`<br>
-<img src="Data Chosen.png" alt="data chosen">
+<img src="Data Chosen.png" alt="data chosen" width="300">
 <br>
 `Data with black space`<br>
 <img src="ExampleDataWithBlackSpace.png" alt="black">
