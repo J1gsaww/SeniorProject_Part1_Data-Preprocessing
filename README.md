@@ -35,7 +35,7 @@ The code provided among this repository are
 **Required library:** PIL (Python Imaging Library) 
 <br> The script will generate an image file named `A4.png` containing a table drawn on an A4-sized canvas.
 <br> The script defines a function `generate_table_on_a4()` that creates a table with red grid lines on an A4-sized canvas. The table cells have a default size of 44x44 pixels.
-<br>`Result`<br>
+<br><br>`Result`<br>
 <img src="A4.png" alt="table" width="300">
 
 ## Paper Slicer
@@ -57,7 +57,7 @@ Just check the size of the paper because shen you retrieve a scanning paper (wit
 When croping, the program will skip the last row and column because the image containing black space will not be selected. 
 <br> The image that contain the black space is because the changed resolution of the caligraphy paper but the script originally size of the small image.
 <br> Actually we can replace mentioned black space with better solution.
-<br>
+<br><br>
 `Data chosen`<br>
 <img src="/Snapshot/Data Chosen.png" alt="data chosen" width="300">
 <br>
