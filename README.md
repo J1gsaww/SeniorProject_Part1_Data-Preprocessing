@@ -22,8 +22,8 @@ The code provided among this repository are
 - Size Check
 
 ## Table Generator
-Required library: PIL (Python Imaging Library) 
-<br> Command: pip install pillow
+**Required library:** PIL (Python Imaging Library) 
+<br> **Command:** pip install pillow
 <br> The script will generate an image file named `A4.png` containing a table drawn on an A4-sized canvas.
 <br> The script defines a function `generate_table_on_a4()` that creates a table with red grid lines on an A4-sized canvas. The table cells have a default size of 44x44 pixels.
 
