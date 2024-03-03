@@ -11,13 +11,13 @@ The goal of Thai handwritten recognition is to create technology that accurately
 
 ## Members
 Mr. Thanawath 		Huayhongthong		6388016 
-<br> Resposible on GUI Displaying
+<br> `Resposible on GUI Displaying`
 <br><br>
 Mr. Dhammawat		Siribunchawan		6388055
-<br> Resposible on Trainning and Devleoping member process
+<br> `Resposible on Trainning and Devleoping member process`
 <br><br>
 Mr. Naphat			Sookjitsumrarn		6388059
-<br> Resposible on Evaluating
+<br> `Resposible on Evaluating`
 
 ## System Structure Chart
 <img src="System Structure Chart.png" alt="SystemArc">
