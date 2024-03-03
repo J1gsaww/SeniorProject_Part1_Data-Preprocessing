@@ -21,9 +21,9 @@ Mr. Naphat			Sookjitsumrarn		6388059
 
 ## System Structure Chart
 <img src="System Structure Chart.png" alt="SystemArc">
-- Preprocessing
-- Training | You can explore our repository [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git).
-- Evaluating | You can visit our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git).
+- Preprocessing 
+- Training | You can explore our repository [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git). 
+- Evaluating | You can visit our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git). 
 - Displaying | You can look out our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject_Part4_GUI-Demo.git).
 
 
