@@ -9,7 +9,6 @@ The research team extends heartfelt thanks to everyone who supported us.
 ## Objectives
 The goal of Thai handwritten recognition is to create technology that accurately converts handwritten Thai script into digital text. 
 <br> This involves using deep learning techniques like Convolutional Neural Networks (CNNs) to improve accuracy. 
-<br> By leveraging machine learning methods and large datasets of handwritten Thai characters, we aim to develop systems capable of recognizing diverse writing styles. 
-<br> Ultimately, our research aims to make Thai handwritten recognition a valuable tool for various industries and individuals in the digital age.
+<br> By leveraging machine learning methods and large datasets of handwritten Thai characters, we aim to develop systems capable of recognizing diverse writing styles. Ultimately, our research aims to make Thai handwritten recognition a valuable tool for various industries and individuals in the digital age.
 
 ##
