@@ -1,4 +1,4 @@
-![image](https://github.com/J1gsaww/Senior-Project_Data-Preprocessing/assets/83120560/9ca4343d-3bd8-452a-bda3-96bb1f52c7fb)## Senior Project | Thai Hand Written Recognition using CNN (ResNet50)
+## Senior Project | Thai Hand Written Recognition using CNN (ResNet50)
 This is just one part of my Senior Project, the preprocessing phase."
 
 ## ACKNOWLEDGEMENTS
@@ -50,8 +50,8 @@ When croping, the program will skip the last row and column because the image co
 <br> Actually we can replace mentioned black space with better solution.
 <br>
 `Data chosen`<br>
-<img src="Data Chosen.png" alt="data chosen" width="300">
+<img src="/Snapshot/Data Chosen.png" alt="data chosen" width="300">
 <br>
 `Data with black space`<br>
-<img src="ExampleDataWithBlackSpace.png" alt="black">
+<img src="/Snapshot/ExampleDataWithBlackSpace.png" alt="black">
 
