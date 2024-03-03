@@ -21,11 +21,11 @@ Mr. Naphat			Sookjitsumrarn		6388059
 
 ## System Structure Chart
 <img src="System Structure Chart.png" alt="SystemArc">
-<br> The project consists of 4 parts including:
-<br> - Preprocessing
-<br> - Training | You can explore our repository [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git).
-<br> - Evaulating | You can visit our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git).
-<br> - Displaying | You can look out our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject_Part4_GUI-Demo.git).
+- Preprocessing
+- Training | You can explore our repository [here](https://github.com/J1gsaww/SeniorProject_Part2_Train_ThaiHandWritten-Recognition-with-ResNet-50.git).
+- Evaluating | You can visit our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject-Part3-Evaluation.git).
+- Displaying | You can look out our repository [here](https://github.com/J1gsaww/SeniorProject_SeniorProject_Part4_GUI-Demo.git).
+
 
 ## Preprocessing 
 The Thai alphabet comprises 44 consonants, 21 vowels, 4 intonation marks, and 79 writing forms in total. The project needs convenient methods to retrieve the data by implementing an easier screen capture of the paper. One of the methods is creating a writing table template by implementing the Pillow library in Python.
